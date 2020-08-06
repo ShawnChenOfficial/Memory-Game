@@ -1,0 +1,10 @@
+H:\BIT it607src\PlayingCard\test\bin\Debug\test.exe.config
+H:\BIT it607src\PlayingCard\test\bin\Debug\test.exe
+H:\BIT it607src\PlayingCard\test\bin\Debug\test.pdb
+H:\BIT it607src\PlayingCard\test\bin\Debug\PlayingCard.dll
+H:\BIT it607src\PlayingCard\test\bin\Debug\PlayingCard.pdb
+H:\BIT it607src\PlayingCard\test\obj\Debug\test.csprojAssemblyReference.cache
+H:\BIT it607src\PlayingCard\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+H:\BIT it607src\PlayingCard\test\obj\Debug\test.csproj.CopyComplete
+H:\BIT it607src\PlayingCard\test\obj\Debug\test.exe
+H:\BIT it607src\PlayingCard\test\obj\Debug\test.pdb

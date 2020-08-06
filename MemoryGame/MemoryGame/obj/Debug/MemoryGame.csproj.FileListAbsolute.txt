@@ -1,0 +1,12 @@
+C:\Shawn IT607 src\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Shawn IT607 src\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGame.resources
+C:\Shawn IT607 src\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Shawn IT607 src\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.Cache
+C:\Shawn IT607 src\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Shawn IT607 src\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Shawn IT607 src\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Shawn IT607 src\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Shawn IT607 src\MemoryGame\MemoryGame\bin\Debug\PlayingCard.dll
+C:\Shawn IT607 src\MemoryGame\MemoryGame\bin\Debug\PlayingCard.pdb
+C:\Shawn IT607 src\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Shawn IT607 src\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb

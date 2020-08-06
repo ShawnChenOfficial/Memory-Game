@@ -1,0 +1,12 @@
+H:\BIT it607src\PlayingCard\PlayingCard\bin\Debug\PlayingCard.dll
+H:\BIT it607src\PlayingCard\PlayingCard\bin\Debug\PlayingCard.pdb
+H:\BIT it607src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.csproj.CoreCompileInputs.cache
+H:\BIT it607src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.dll
+H:\BIT it607src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.pdb
+H:\BIT it607src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.csprojAssemblyReference.cache
+C:\Shawn IT607 src\PlayingCard\PlayingCard\bin\Debug\PlayingCard.dll
+C:\Shawn IT607 src\PlayingCard\PlayingCard\bin\Debug\PlayingCard.pdb
+C:\Shawn IT607 src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.csproj.CoreCompileInputs.cache
+C:\Shawn IT607 src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.dll
+C:\Shawn IT607 src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.pdb
+C:\Shawn IT607 src\PlayingCard\PlayingCard\obj\Debug\PlayingCard.csprojResolveAssemblyReference.cache
